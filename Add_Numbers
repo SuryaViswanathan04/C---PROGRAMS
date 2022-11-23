@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main() {
+    int a,b,c;
+    printf("Enter the first element:");
+    scanf("%d/n",&a);
+    printf("Enter the second element:");
+    scanf("%d/n",&b);
+    c=a+b;
+    printf("%d",c);
+    return 0;
+}
